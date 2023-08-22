@@ -5,8 +5,6 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.IO;
-using System.Reflection.Metadata.Ecma335;
-using System.Security.Policy;
 using System.Threading.Tasks;
 
 namespace CleanArchMVC.WebUI.Controllers
